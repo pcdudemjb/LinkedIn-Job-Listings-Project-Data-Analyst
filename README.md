@@ -1,5 +1,5 @@
 # LinkedIn-Job-Listings-Project-Data-Analyst
-Data Analysis using Kaggle Dataset showing Data Analyst Job Postings from late 2022
+Data Analysis using Kaggle Dataset showing LinkedIn Data Analyst Job Postings from late 2022
 
 ## Project Goals
 -Establish which companies are hiring for multiple positions/postings
